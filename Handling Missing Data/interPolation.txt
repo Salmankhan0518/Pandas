@@ -1,0 +1,23 @@
+10
+20
+NaN
+30
+40
+50
+
+
+1000
+2000
+3000
+NaN
+5000
+6000
+7000
+
+Linear
+
+1- preserve data integrity
+2- smooth trends
+3- avoind data loss
+
+interpolate()
